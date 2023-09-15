@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript , Forge , AI**
 
-- 👨‍💻 All of my projects and portfolio are available at https://mohamedetman1998.github.io/portfolio/
+- 👨‍💻 All of my projects and portfolio are available at https://mohamedetman1998.github.io/myportfolio/
 
 - 📫 How to reach me **mohamedetman603@gmail.com**
 
