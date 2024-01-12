@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mohamedetman603@gmail.com**
 
-- 📄 Know about my experiences [Download My CV](https://media.licdn.com/dms/document/media/D4D2DAQG7X8tdx6Fnfw/profile-treasury-document-pdf-analyzed/0/1694593551240?e=1695254400&v=beta&t=ILnU7aN3wDh_4tS-fRBVptMAZa0B7XvOGsDgOXm_Iqk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
