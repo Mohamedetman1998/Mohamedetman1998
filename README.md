@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedetman1998&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedetman1998" /> </p>
 
-- 🔭 I’m currently working on **ASP.NET website**
-
-- 🌱 I’m currently learning **Javascript , Forge , AI**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects and portfolio are available at https://mohamedetman1998.github.io/portfolio/
 
